@@ -1,6 +1,5 @@
 # Safrochain Testnet Installation Guide (`safro-testnet-1`)
 
-![Safrochain Logo](https://raw.githubusercontent.com/Safrochain-Org/safrochain-node/main/docs/assets/logo.png)
 
 ## 📋 Hardware Requirements
 
