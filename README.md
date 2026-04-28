@@ -130,7 +130,7 @@ curl -o - -L https://ss-t.safrochain.nodestake.org/${SNAP_NAME} | lz4 -c -d - | 
 # Start
 sudo systemctl restart safrochaind && sudo journalctl -u safrochaind -fo cat
 ```
-Thanks NodeStake
+#####Thanks NodeStake
 ---
 
 ## 🔑 Validator Setup
